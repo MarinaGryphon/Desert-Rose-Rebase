@@ -44,6 +44,7 @@
 	name = "sprint buffer"
 	icon = 'icons/effects/progessbar.dmi'
 	icon_state = "prog_bar_100"
+	layer = HUD_LAYER - 0.1
 
 /obj/screen/sprint_buffer/Click()
 	if(isliving(usr))
