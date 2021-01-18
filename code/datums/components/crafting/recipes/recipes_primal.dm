@@ -3,7 +3,7 @@
 	result = /obj/item/clothing/accessory/talisman
 	time = 20
 	reqs = list(/obj/item/stack/sheet/bone = 2,
-				 /obj/item/stack/sheet/sinew = 1)
+				/obj/item/stack/sheet/sinew = 1)
 	category = CAT_PRIMAL
 
 /datum/crafting_recipe/bonecodpiece
@@ -11,7 +11,7 @@
 	result = /obj/item/clothing/accessory/skullcodpiece
 	time = 20
 	reqs = list(/obj/item/stack/sheet/bone = 2,
-				 /obj/item/stack/sheet/animalhide/goliath_hide = 1)
+				/obj/item/stack/sheet/animalhide/goliath_hide = 1)
 	category = CAT_PRIMAL
 
 /datum/crafting_recipe/bracers
@@ -19,7 +19,7 @@
 	result = /obj/item/clothing/gloves/bracer
 	time = 20
 	reqs = list(/obj/item/stack/sheet/bone = 2,
-				 /obj/item/stack/sheet/sinew = 1)
+				/obj/item/stack/sheet/sinew = 1)
 	category = CAT_PRIMAL
 
 /datum/crafting_recipe/goliathcloak
@@ -53,7 +53,7 @@
 	result = /obj/item/twohanded/spear/bonespear
 	time = 30
 	reqs = list(/obj/item/stack/sheet/bone = 4,
-				 /obj/item/stack/sheet/sinew = 1)
+				/obj/item/stack/sheet/sinew = 1)
 	category = CAT_PRIMAL
 
 /datum/crafting_recipe/boneaxe
@@ -61,7 +61,7 @@
 	result = /obj/item/twohanded/fireaxe/boneaxe
 	time = 50
 	reqs = list(/obj/item/stack/sheet/bone = 6,
-				 /obj/item/stack/sheet/sinew = 3)
+				/obj/item/stack/sheet/sinew = 3)
 	category = CAT_PRIMAL
 
 /datum/crafting_recipe/bonfire
@@ -97,7 +97,7 @@
 	result = /obj/item/storage/belt/tribe_quiver
 	time = 80
 	reqs = list(/obj/item/stack/sheet/leather = 3,
-				 /obj/item/stack/sheet/sinew = 4)
+				/obj/item/stack/sheet/sinew = 4)
 	category = CAT_PRIMAL
 
 /datum/crafting_recipe/bone_bow
@@ -106,7 +106,7 @@
 	time = 120 // 80+120 = 200
 	always_availible = FALSE
 	reqs = list(/obj/item/stack/sheet/bone = 8,
-				 /obj/item/stack/sheet/sinew = 4)
+				/obj/item/stack/sheet/sinew = 4)
 	category = CAT_PRIMAL
 
 /datum/crafting_recipe/bow_tablet
@@ -115,7 +115,7 @@
 	time = 200 //Scribing // don't care
 	always_availible = FALSE
 	reqs = list(/obj/item/stack/rods = 1,
-				 /obj/item/stack/sheet/mineral/sandstone = 4)
+				/obj/item/stack/sheet/mineral/sandstone = 4)
 	category = CAT_PRIMAL
 
 /datum/crafting_recipe/rib
